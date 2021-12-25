@@ -9,3 +9,6 @@
 ![image](https://user-images.githubusercontent.com/73352918/147388169-6f4d5d9e-7106-429a-b413-e116e6325df5.png)
 # Reservation Window
 ![image](https://user-images.githubusercontent.com/73352918/147388236-fe1edaa7-9faa-4d87-aaf2-281d054dd20f.png)
+# Database Management
+![image](https://user-images.githubusercontent.com/73352918/147388342-aa9f597e-6c81-4309-b9e1-74a848611c7b.png)
+
